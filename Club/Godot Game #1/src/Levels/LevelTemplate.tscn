@@ -43,6 +43,7 @@ position = Vector2( -1442, 345 )
 collision_mask = 9
 
 [node name="Player2" parent="." instance=ExtResource( 2 )]
+modulate = Color( 0.384314, 1, 0, 1 )
 position = Vector2( -1447, 831 )
 collision_mask = 9
 script = ExtResource( 3 )
