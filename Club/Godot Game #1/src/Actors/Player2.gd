@@ -14,3 +14,4 @@ func _physics_process(delta):
 	
 	_velocity = move_and_slide(_velocity, UP)
 	pass 
+
