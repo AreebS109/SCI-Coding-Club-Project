@@ -8,3 +8,4 @@ var speed: = 400.0
 const MAX_SPEED = 600
 const ACCELERATION = 1000
 const DECELERATION = 2000
+var x = 0
